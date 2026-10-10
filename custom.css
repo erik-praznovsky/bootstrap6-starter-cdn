@@ -1,0 +1,11 @@
+/* Custom CSS */
+body {
+  background-color: var(--bs-gray-100);
+}
+
+.navbar .form-control {
+  --bs-control-bg: var(--bs-gray-100);
+  --bs-control-fg: var(--bs-gray-900);
+  --bs-control-border-color: var(--bs-gray-500);
+  color-scheme: light;
+}
